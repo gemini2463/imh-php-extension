@@ -1514,11 +1514,6 @@ PHP versions and extension table
 ## cPanel conf
 - imh-php-extension.conf - [AppConfig Configuration File](https://api.docs.cpanel.net/guides/guide-to-whm-plugins/guide-to-whm-plugins-appconfig-configuration-file)
 - imh-php-extension.conf.sha256 - `sha256sum imh-php-extension.conf > imh-php-extension.conf.sha256`
-
-## CWP include
-
-- cwp-include.php - [CWP include](https://wiki.centos-webpanel.com/how-to-build-a-cwp-module)
-- cwp-include.php.sha256 - `sha256sum cwp-include.php > cwp-include.php.sha256`
 </file>
 
 </files>
