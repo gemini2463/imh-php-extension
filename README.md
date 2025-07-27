@@ -1,4 +1,4 @@
-# imh-php-extension, v0.0.1
+# imh-php-extension, v0.0.2
 
 PHP versions and extension table
 
